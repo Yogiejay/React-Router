@@ -1,0 +1,39 @@
+#footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+}
+
+#links {
+    display: flex;
+    justify-content: space-around;
+    padding-left: 80px;
+}
+
+#links>div {
+    padding-left: 80px;
+}
+
+
+#rfl>label {
+    display: flex;
+    justify-content: space-around;
+}
+
+#ha>label {
+    display: flex;
+    justify-content: space-around;
+}
+
+#pt>label {
+    display: flex;
+    justify-content: space-around;
+}
+
+#logoo {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 200%;
+}
